@@ -8,4 +8,4 @@ Plan:
 - Python: praca z danymi (pandas), automatyzacja
 - Projekty: małe, ale domknięte
 
-Repo będzie aktualizowane regularnie przez kolejne 90 dni.
+Repo będzie aktualizowane regularnie przez kolejne 90 dni
