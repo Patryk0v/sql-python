@@ -1,0 +1,8 @@
+id,category,price,quantity
+1,A,10,2
+2,B,15,
+3,A,7,5
+4,C,20,1
+5,B,12,three
+6,,9,2
+7,A,,4
